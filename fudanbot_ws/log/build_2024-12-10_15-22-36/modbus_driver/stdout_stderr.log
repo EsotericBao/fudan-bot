@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing modbus_driver.egg-info/PKG-INFO
+writing dependency_links to modbus_driver.egg-info/dependency_links.txt
+writing entry points to modbus_driver.egg-info/entry_points.txt
+writing requirements to modbus_driver.egg-info/requires.txt
+writing top-level names to modbus_driver.egg-info/top_level.txt
+reading manifest file 'modbus_driver.egg-info/SOURCES.txt'
+writing manifest file 'modbus_driver.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/desu/fudanbot_ws/install/modbus_driver/lib/python3.10/site-packages/modbus-driver.egg-link (link to .)
+Installing RS485_node script to /home/desu/fudanbot_ws/install/modbus_driver/lib/modbus_driver
+
+Installed /home/desu/fudanbot_ws/build/modbus_driver
+running symlink_data
+symbolically linking /home/desu/fudanbot_ws/build/modbus_driver/resource/modbus_driver -> /home/desu/fudanbot_ws/install/modbus_driver/share/ament_index/resource_index/packages
+symbolically linking /home/desu/fudanbot_ws/build/modbus_driver/package.xml -> /home/desu/fudanbot_ws/install/modbus_driver/share/modbus_driver

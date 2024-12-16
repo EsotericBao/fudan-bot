@@ -1,0 +1,24 @@
+[0.465s] Invoking command in '/home/desu/fudanbot_ws/src/motor_driver': PYTHONPATH=/home/desu/fudanbot_ws/build/motor_driver/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/desu/fudanbot_ws/install/motor_driver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/motor_driver build --build-base /home/desu/fudanbot_ws/build/motor_driver/build install --record /home/desu/fudanbot_ws/build/motor_driver/install.log --single-version-externally-managed install_data
+[0.635s] running egg_info
+[0.636s] writing ../../build/motor_driver/motor_driver.egg-info/PKG-INFO
+[0.636s] writing dependency_links to ../../build/motor_driver/motor_driver.egg-info/dependency_links.txt
+[0.636s] writing entry points to ../../build/motor_driver/motor_driver.egg-info/entry_points.txt
+[0.636s] writing requirements to ../../build/motor_driver/motor_driver.egg-info/requires.txt
+[0.636s] writing top-level names to ../../build/motor_driver/motor_driver.egg-info/top_level.txt
+[0.637s] reading manifest file '../../build/motor_driver/motor_driver.egg-info/SOURCES.txt'
+[0.638s] writing manifest file '../../build/motor_driver/motor_driver.egg-info/SOURCES.txt'
+[0.638s] running build
+[0.638s] running build_py
+[0.639s] copying motor_driver/motor_driver.py -> /home/desu/fudanbot_ws/build/motor_driver/build/lib/motor_driver
+[0.639s] running install
+[0.639s] running install_lib
+[0.639s] copying /home/desu/fudanbot_ws/build/motor_driver/build/lib/motor_driver/motor_driver.py -> /home/desu/fudanbot_ws/install/motor_driver/lib/python3.10/site-packages/motor_driver
+[0.640s] byte-compiling /home/desu/fudanbot_ws/install/motor_driver/lib/python3.10/site-packages/motor_driver/motor_driver.py to motor_driver.cpython-310.pyc
+[0.641s] running install_data
+[0.641s] running install_egg_info
+[0.642s] removing '/home/desu/fudanbot_ws/install/motor_driver/lib/python3.10/site-packages/motor_driver-0.0.0-py3.10.egg-info' (and everything under it)
+[0.642s] Copying ../../build/motor_driver/motor_driver.egg-info to /home/desu/fudanbot_ws/install/motor_driver/lib/python3.10/site-packages/motor_driver-0.0.0-py3.10.egg-info
+[0.643s] running install_scripts
+[0.661s] Installing motor_driver script to /home/desu/fudanbot_ws/install/motor_driver/lib/motor_driver
+[0.661s] writing list of installed files to '/home/desu/fudanbot_ws/build/motor_driver/install.log'
+[0.686s] Invoked command in '/home/desu/fudanbot_ws/src/motor_driver' returned '0': PYTHONPATH=/home/desu/fudanbot_ws/build/motor_driver/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/desu/fudanbot_ws/install/motor_driver/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/motor_driver build --build-base /home/desu/fudanbot_ws/build/motor_driver/build install --record /home/desu/fudanbot_ws/build/motor_driver/install.log --single-version-externally-managed install_data

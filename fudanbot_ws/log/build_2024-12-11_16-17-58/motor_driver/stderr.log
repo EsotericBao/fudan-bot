@@ -1,0 +1,5 @@
+  File "/home/desu/fudanbot_ws/install/motor_driver/lib/python3.10/site-packages/motor_driver/motor_driver.py", line 6
+    from std_msgs.msg import 
+                             ^
+SyntaxError: invalid syntax
+

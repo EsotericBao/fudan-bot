@@ -1,0 +1,4 @@
+Invoking command in '/home/desu/fudanbot_ws/build/rplidar_ros': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/desu/fudanbot_ws/build/rplidar_ros -- -j16 -l16
+Invoked command in '/home/desu/fudanbot_ws/build/rplidar_ros' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/desu/fudanbot_ws/build/rplidar_ros -- -j16 -l16
+Invoking command in '/home/desu/fudanbot_ws/build/rplidar_ros': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/desu/fudanbot_ws/build/rplidar_ros
+Invoked command in '/home/desu/fudanbot_ws/build/rplidar_ros' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/desu/fudanbot_ws/build/rplidar_ros

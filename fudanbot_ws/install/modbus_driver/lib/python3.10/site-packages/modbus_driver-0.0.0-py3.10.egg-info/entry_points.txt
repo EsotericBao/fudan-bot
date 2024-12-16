@@ -1,0 +1,3 @@
+[console_scripts]
+RS485_node = modbus_driver.RS485_node:main
+

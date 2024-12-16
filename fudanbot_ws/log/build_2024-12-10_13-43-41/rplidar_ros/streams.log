@@ -1,0 +1,55 @@
+[0.018s] Invoking command in '/home/desu/fudanbot_ws/build/rplidar_ros': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/desu/spms_ws/install/launch_testing_examples:/home/desu/spms_ws/install/fudensgayservices:/home/desu/spms_ws/install/fudanisgay:/home/desu/spms_ws/install/examples_rclpy_pointcloud_publisher:/home/desu/spms_ws/install/examples_rclpy_minimal_subscriber:/home/desu/spms_ws/install/examples_rclpy_minimal_service:/home/desu/spms_ws/install/examples_rclpy_minimal_publisher:/home/desu/spms_ws/install/examples_rclpy_minimal_client:/home/desu/spms_ws/install/examples_rclpy_minimal_action_server:/home/desu/spms_ws/install/examples_rclpy_minimal_action_client:/home/desu/spms_ws/install/examples_rclpy_guard_conditions:/home/desu/spms_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/desu/fudanbot_ws/build/rplidar_ros -- -j16 -l16
+[0.108s] [  5%] Built target rplidar_client
+[0.109s] [ 52%] Built target rplidar_node
+[0.109s] [100%] Built target rplidar_composition
+[0.130s] Invoked command in '/home/desu/fudanbot_ws/build/rplidar_ros' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/desu/spms_ws/install/launch_testing_examples:/home/desu/spms_ws/install/fudensgayservices:/home/desu/spms_ws/install/fudanisgay:/home/desu/spms_ws/install/examples_rclpy_pointcloud_publisher:/home/desu/spms_ws/install/examples_rclpy_minimal_subscriber:/home/desu/spms_ws/install/examples_rclpy_minimal_service:/home/desu/spms_ws/install/examples_rclpy_minimal_publisher:/home/desu/spms_ws/install/examples_rclpy_minimal_client:/home/desu/spms_ws/install/examples_rclpy_minimal_action_server:/home/desu/spms_ws/install/examples_rclpy_minimal_action_client:/home/desu/spms_ws/install/examples_rclpy_guard_conditions:/home/desu/spms_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/desu/fudanbot_ws/build/rplidar_ros -- -j16 -l16
+[0.150s] Invoking command in '/home/desu/fudanbot_ws/build/rplidar_ros': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/desu/spms_ws/install/launch_testing_examples:/home/desu/spms_ws/install/fudensgayservices:/home/desu/spms_ws/install/fudanisgay:/home/desu/spms_ws/install/examples_rclpy_pointcloud_publisher:/home/desu/spms_ws/install/examples_rclpy_minimal_subscriber:/home/desu/spms_ws/install/examples_rclpy_minimal_service:/home/desu/spms_ws/install/examples_rclpy_minimal_publisher:/home/desu/spms_ws/install/examples_rclpy_minimal_client:/home/desu/spms_ws/install/examples_rclpy_minimal_action_server:/home/desu/spms_ws/install/examples_rclpy_minimal_action_client:/home/desu/spms_ws/install/examples_rclpy_guard_conditions:/home/desu/spms_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/desu/fudanbot_ws/build/rplidar_ros
+[0.159s] -- Install configuration: ""
+[0.160s] -- Execute custom install script
+[0.160s] -- Symlinking: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/__pycache__/rplidar_a2m8_launch.cpython-310.pyc
+[0.170s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/rplidar_a1_launch.py
+[0.171s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/rplidar_a2m12_launch.py
+[0.171s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/rplidar_a2m7_launch.py
+[0.171s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/rplidar_a2m8_launch.py
+[0.171s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/rplidar_a3_launch.py
+[0.171s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/rplidar_c1_launch.py
+[0.171s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/rplidar_s1_launch.py
+[0.171s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/rplidar_s1_tcp_launch.py
+[0.171s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/rplidar_s2_launch.py
+[0.171s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/rplidar_s2e_launch.py
+[0.172s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/rplidar_s3_launch.py
+[0.172s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/rplidar_t1_launch.py
+[0.172s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_a1_launch.py
+[0.172s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_a2m12_launch.py
+[0.172s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_a2m7_launch.py
+[0.172s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_a2m8_launch.py
+[0.172s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_a3_launch.py
+[0.172s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_c1_launch.py
+[0.172s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_s1_launch.py
+[0.172s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_s1_tcp_launch.py
+[0.172s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_s2_launch.py
+[0.172s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_s2e_launch.py
+[0.172s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_s3_launch.py
+[0.173s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/launch/view_rplidar_t1_launch.py
+[0.173s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/rviz/rplidar_ros.rviz
+[0.173s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/lib/rplidar_ros/rplidar_node
+[0.173s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/lib/rplidar_ros/rplidar_composition
+[0.173s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/lib/rplidar_ros/rplidar_client
+[0.173s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/ament_index/resource_index/package_run_dependencies/rplidar_ros
+[0.173s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/ament_index/resource_index/parent_prefix_path/rplidar_ros
+[0.174s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/environment/ament_prefix_path.sh
+[0.174s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/environment/ament_prefix_path.dsv
+[0.174s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/environment/path.sh
+[0.174s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/environment/path.dsv
+[0.174s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/local_setup.bash
+[0.174s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/local_setup.sh
+[0.174s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/local_setup.zsh
+[0.174s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/local_setup.dsv
+[0.174s] -- Symlinking: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/package.dsv
+[0.183s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/ament_index/resource_index/packages/rplidar_ros
+[0.184s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.184s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.184s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/cmake/rplidar_rosConfig.cmake
+[0.184s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/cmake/rplidar_rosConfig-version.cmake
+[0.184s] -- Up-to-date symlink: /home/desu/fudanbot_ws/install/rplidar_ros/share/rplidar_ros/package.xml
+[0.188s] Invoked command in '/home/desu/fudanbot_ws/build/rplidar_ros' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/desu/spms_ws/install/launch_testing_examples:/home/desu/spms_ws/install/fudensgayservices:/home/desu/spms_ws/install/fudanisgay:/home/desu/spms_ws/install/examples_rclpy_pointcloud_publisher:/home/desu/spms_ws/install/examples_rclpy_minimal_subscriber:/home/desu/spms_ws/install/examples_rclpy_minimal_service:/home/desu/spms_ws/install/examples_rclpy_minimal_publisher:/home/desu/spms_ws/install/examples_rclpy_minimal_client:/home/desu/spms_ws/install/examples_rclpy_minimal_action_server:/home/desu/spms_ws/install/examples_rclpy_minimal_action_client:/home/desu/spms_ws/install/examples_rclpy_guard_conditions:/home/desu/spms_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/desu/fudanbot_ws/build/rplidar_ros

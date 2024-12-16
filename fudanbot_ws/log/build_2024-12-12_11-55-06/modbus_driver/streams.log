@@ -1,0 +1,24 @@
+[0.472s] Invoking command in '/home/desu/fudanbot_ws/src/modbus_driver': PS1=(turtlebot_env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/desu/fudanbot_ws/build/modbus_driver/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/desu/fudanbot_ws/install/modbus_driver/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(turtlebot_env) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/modbus_driver build --build-base /home/desu/fudanbot_ws/build/modbus_driver/build install --record /home/desu/fudanbot_ws/build/modbus_driver/install.log --single-version-externally-managed install_data
+[0.627s] running egg_info
+[0.627s] writing ../../build/modbus_driver/modbus_driver.egg-info/PKG-INFO
+[0.627s] writing dependency_links to ../../build/modbus_driver/modbus_driver.egg-info/dependency_links.txt
+[0.628s] writing entry points to ../../build/modbus_driver/modbus_driver.egg-info/entry_points.txt
+[0.628s] writing requirements to ../../build/modbus_driver/modbus_driver.egg-info/requires.txt
+[0.628s] writing top-level names to ../../build/modbus_driver/modbus_driver.egg-info/top_level.txt
+[0.628s] reading manifest file '../../build/modbus_driver/modbus_driver.egg-info/SOURCES.txt'
+[0.629s] writing manifest file '../../build/modbus_driver/modbus_driver.egg-info/SOURCES.txt'
+[0.629s] running build
+[0.629s] running build_py
+[0.629s] copying modbus_driver/RS485_node.py -> /home/desu/fudanbot_ws/build/modbus_driver/build/lib/modbus_driver
+[0.629s] running install
+[0.630s] running install_lib
+[0.630s] copying /home/desu/fudanbot_ws/build/modbus_driver/build/lib/modbus_driver/RS485_node.py -> /home/desu/fudanbot_ws/install/modbus_driver/lib/python3.10/site-packages/modbus_driver
+[0.631s] byte-compiling /home/desu/fudanbot_ws/install/modbus_driver/lib/python3.10/site-packages/modbus_driver/RS485_node.py to RS485_node.cpython-310.pyc
+[0.631s] running install_data
+[0.631s] running install_egg_info
+[0.633s] removing '/home/desu/fudanbot_ws/install/modbus_driver/lib/python3.10/site-packages/modbus_driver-0.0.0-py3.10.egg-info' (and everything under it)
+[0.633s] Copying ../../build/modbus_driver/modbus_driver.egg-info to /home/desu/fudanbot_ws/install/modbus_driver/lib/python3.10/site-packages/modbus_driver-0.0.0-py3.10.egg-info
+[0.634s] running install_scripts
+[0.649s] Installing RS485_node script to /home/desu/fudanbot_ws/install/modbus_driver/lib/modbus_driver
+[0.649s] writing list of installed files to '/home/desu/fudanbot_ws/build/modbus_driver/install.log'
+[0.666s] Invoked command in '/home/desu/fudanbot_ws/src/modbus_driver' returned '0': PS1=(turtlebot_env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/desu/fudanbot_ws/build/modbus_driver/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/desu/fudanbot_ws/install/modbus_driver/lib/python3.10/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(turtlebot_env) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/modbus_driver build --build-base /home/desu/fudanbot_ws/build/modbus_driver/build install --record /home/desu/fudanbot_ws/build/modbus_driver/install.log --single-version-externally-managed install_data
